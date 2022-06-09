@@ -3,4 +3,3 @@
 
 - 🌱 Atualmente estou aprendendo postgres-sql,(Html,Css,JavaScript) 
 - 🤔 Estou procurando ajuda com Programação Web , Banco de Dados
-- 😄 Pronouns: Ele,dele
